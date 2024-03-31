@@ -169,5 +169,15 @@ body {
 
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
-    color: var(--cor-de-fundo);
+    color: var(--cor-de-fundo)
+}
+
+.container__botao__primario:hover {
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-de-fundo)
+}
+
+.container__botao__secundario:hover {
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-de-fundo)
 }
